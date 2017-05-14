@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: NewJuhayServices
-  host: NewJuhayServices
+  name: LineAppJava
+  host: LineAppJava
   disk_quota: 1024M
